@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Harsh.Dusane/My Downloads/jar_files/sphinx4-core-5prealpha.jar"/>
+	<classpathentry kind="lib" path="D:/Harsh.Dusane/My Downloads/jar_files (1)/sphinx4-data-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
